@@ -4,8 +4,8 @@ version = "0.2.10"
 edition = "2021"
 license = "MIT"
 description = "Reddix - Reddit, refined for the terminal."
-repository = "https://github.com/ck-zhang/reddix"
-homepage = "https://github.com/ck-zhang/reddix"
+repository = "https://github.com/natekettles/reddix"
+homepage = "https://github.com/natekettles/reddix"
 
 [dependencies]
 anyhow = "1.0"
